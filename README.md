@@ -15,7 +15,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
-- 🔭 Currently building [Campus Enrollment System](https://github.com/kalvinkarl/campus-enrollment-system) | [Examination Management System](https://github.com/kalvinkarl/examination-management-system) | [Campus Billing System](https://github.com/kalvinkarl/campus-billing-system)
+- 🔭 Currently building [Campus Enrollment System](https://github.com/kalvinkarl/solana-academic-management-system-app) | [Examination Management System](https://github.com/kalvinkarl/examination-management-system)
 - 📉 Teaching **Mobile development** | **Web development** | **C# development**
 - 👨‍💻 Learning **docker**
 - 🤝 Looking to collaborate on **Web Development and Desktop development**
