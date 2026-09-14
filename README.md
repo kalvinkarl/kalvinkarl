@@ -39,9 +39,14 @@
 			<img alt="express" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
 		</a>
 	</span>
-    	<span>
+  <span>
 		<a target="_blank" rel="noreferrer" href="https://angular.io">
 			<img alt="angular" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
+		</a>
+	</span>
+  <span>
+		<a target="_blank" rel="noreferrer" href="https://flutter.dev">
+			<img alt="angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 		</a>
 	</span>
 	<span>
