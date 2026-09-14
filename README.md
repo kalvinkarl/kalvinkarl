@@ -15,9 +15,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
-- 🔭 Currently building [Campus Enrollment System](https://github.com/kalvinkarl/solana-academic-management-system-app) | [Examination Management System](https://github.com/kalvinkarl/examination-management-system)
+- 🔭 Currently developing **Campus Enrollment System** | **OPCR Evidence Portal System**
 - 📉 Teaching **Mobile development** | **Web development** | **C# development**
-- 👨‍💻 Learning **docker**
+- 👨‍💻 Learning **Flutter**
 - 🤝 Looking to collaborate on **Web Development and Desktop development**
 - 💬 Ask me about **App Developement MEAN stack with API (CICD) (Serverless) (Web/Mobile) | C# .Net Core (Desktop/Mobile)**
 - 📫 How to reach me **admin@kalvinkarl.com** | SMART **+639984283333** | GLOBE **+639277035244**
